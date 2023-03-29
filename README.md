@@ -1,6 +1,22 @@
 # TravelUlt_Public
 Public Repo for the app Travel Ult - The Ultimate Travel Management App
 
+## Screenshots
+
+<p float="middle">
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(10).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(11).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(12).png" width="300" />
+</p>
+
+<p float="middle">
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(14).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(7).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(2).png" width="300" />
+</p>
+
+
+
 ### TravelUlt Android APP(Click to Play Video)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xwDslMTLc80
