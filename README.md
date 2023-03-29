@@ -1,7 +1,7 @@
 # TravelUlt_Public
 Public Repo for the app Travel Ult - The Ultimate Travel Management App
 
-### TravelUlt Android APP
+### TravelUlt Android APP(Click to Play Video)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xwDslMTLc80
 " target="_blank"><img src="http://img.youtube.com/vi/xwDslMTLc80/0.jpg" 
