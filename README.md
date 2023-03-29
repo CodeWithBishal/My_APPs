@@ -10,9 +10,27 @@ Public Repo for the app Travel Ult - The Ultimate Travel Management App
 </p>
 
 <p float="middle">
-  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(14).png" width="300" />
-  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(7).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/14.png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(8).png" width="300" /> 
   <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(2).png" width="300" />
+</p>
+
+<p float="middle">
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(1).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(5).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(7).png" width="300" />
+</p>
+
+<p float="middle">
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(9).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(3).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(4).png" width="300" />
+</p>
+
+<p float="middle">
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(6).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(3).png" width="300" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project.png" width="300" />
 </p>
 
 
@@ -21,7 +39,7 @@ Public Repo for the app Travel Ult - The Ultimate Travel Management App
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xwDslMTLc80
 " target="_blank"><img src="http://img.youtube.com/vi/xwDslMTLc80/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
 
 
 ### travelult.com Website Overview
