@@ -4,9 +4,9 @@ Public Repo for the app Travel Ult - The Ultimate Travel Management App
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(10).png" width="300" />
-  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(11).png" width="300" /> 
-  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(12).png" width="300" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(10).png" width="200" />
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(11).png" width="200" /> 
+  <img src="https://github.com/CodeWithBishal/TravelUlt_Public/blob/main/APP_Screenshot/My%20project%20(12).png" width="200" />
 </p>
 
 <p float="left">
