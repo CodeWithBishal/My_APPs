@@ -1,7 +1,7 @@
 # My_APPs
 Public Repo for the all the Production Ready Apps Created By Me
 
-## Screenshots
+## TravelUlt Screenshots
 
 <p float="left">
   <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/TravelUlt/APP_Screenshot/My%20project%20(10).png" width="200" />
