@@ -1,6 +1,10 @@
 # TravelUlt
 Public Repo for the app Travel Ult - The Ultimate Travel Management App
 
+## Download App
+
+<a href="https://play.google.com/store/apps/details?id=com.codewithbishal.travelult"><img src="https://github.com/CodeWithBishal/MY_APPS/raw/main/TravelUlt/travelult.app.webp" width="10%" height="10%"></a>
+
 ## Screenshots
 
 <p float="left">
