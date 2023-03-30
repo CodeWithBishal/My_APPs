@@ -39,9 +39,9 @@ Public Repo for the app Travel Ult - The Ultimate Travel Management App
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xwDslMTLc80
 " target="_blank"><img src="http://img.youtube.com/vi/xwDslMTLc80/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
+alt="Youtube Video" width="540" height="380" border="10" /></a>
 
 
 ### travelult.com Website Overview
 
-![Travelult.com](https://github.com/CodeWithBishal/MY_APPS/raw/main/TravelUlttravelult.com.png)
+![Travelult.com](https://github.com/CodeWithBishal/MY_APPS/raw/main/TravelUlt/travelult.com.png)
