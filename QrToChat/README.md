@@ -3,7 +3,7 @@ Public Repo for the app QrToChat : Chat without saving the number - Easily chat 
 
 ## Download App
 
-[![qrtochat.codewithbishal.com](https://github.com/CodeWithBishal/MY_APPS/raw/main/QrToChat/qrtochat_app.webp)](https://play.google.com/store/apps/details?id=com.codewithbishal.qrtochat)
+<a href="https://play.google.com/store/apps/details?id=com.codewithbishal.qrtochat"><img src="https://github.com/CodeWithBishal/MY_APPS/raw/main/QrToChat/qrtochat_app.webp" width="50%" height="50%"></a>
 
 ## Screenshots
 
