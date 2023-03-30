@@ -1,6 +1,10 @@
 # QrToChat
 Public Repo for the app QrToChat : Chat without saving the number - Easily chat with others on whatsapp without saving their number!
 
+## Download App
+
+![qrtochat.codewithbishal.com](https://github.com/CodeWithBishal/MY_APPS/raw/main/QrToChat/qrtochat.webp)
+
 ## Screenshots
 
 <p float="left">
