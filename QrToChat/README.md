@@ -8,9 +8,9 @@ Public Repo for the app QrToChat : Chat without saving the number - Easily chat 
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/TravelUlt/APP_Screenshot/My%20project%20(10).png" width="200" />
-  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/TravelUlt/APP_Screenshot/My%20project%20(11).png" width="200" /> 
-  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/TravelUlt/APP_Screenshot/My%20project%20(12).png" width="200" />
+  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/QrToChat/APP_Screenshot/1.png" width="200" />
+  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/QrToChat/APP_Screenshot/2.png" width="200" /> 
+  <img src="https://github.com/CodeWithBishal/MY_APPS/blob/main/QrToChat/APP_Screenshot/3.png" width="200" />
 </p>
 
 
